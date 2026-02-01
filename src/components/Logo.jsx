@@ -17,8 +17,8 @@ const Logo = () => {
             </style>
 
             <img
-                src="/atlas-logo.png"
-                alt="Atlas AI Labs Logo"
+                src="/qelvoro-logo.png"
+                alt="Qelvoro Logo"
                 className="absolute h-full w-full object-contain"
                 style={{
                     mixBlendMode: 'multiply' // Helps blend white background onto white nav

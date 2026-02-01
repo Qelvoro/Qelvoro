@@ -15,7 +15,7 @@ const Trust = () => {
                     <div className="space-y-8">
                         <div className="prose prose-lg text-slate-600">
                             <p>
-                                Atlas is designed on the principle of data sovereignty. <span className="text-slate-900 font-semibold">We build the logic, but the data remains yours.</span>
+                                Qelvoro is designed on the principle of data sovereignty. <span className="text-slate-900 font-semibold">We build the logic, but the data remains yours.</span>
                             </p>
                             <p>
                                 Our systems are architected to ensure that critical operational data stays within the partner's control boundary—auditable, secure, and portable by default.

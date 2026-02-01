@@ -17,7 +17,7 @@ const Hero = () => {
                     </h1>
 
                     <p className="text-lg md:text-xl text-slate-600 mb-8 leading-relaxed">
-                        Atlas AI Labs builds modular intelligence systems for safety, energy efficiency, and field autonomy.
+                        Qelvoro builds modular intelligence systems for safety, energy efficiency, and field autonomy.
                         We turn data into physical action.
                     </p>
 

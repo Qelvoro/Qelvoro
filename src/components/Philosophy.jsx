@@ -9,7 +9,7 @@ const Philosophy = () => {
                 <div className="grid md:grid-cols-3 gap-12 border-t border-slate-200 pt-16">
                     <div className="col-span-1">
                         <h2 className="text-3xl font-bold text-slate-900">Build Philosophy</h2>
-                        <p className="mt-4 text-slate-500 italic">Atlas builds for the conditions people avoid designing for.</p>
+                        <p className="mt-4 text-slate-500 italic">Qelvoro builds for the conditions people avoid designing for.</p>
                     </div>
                     <div className="col-span-2">
                         <ul className="space-y-6">
@@ -36,11 +36,11 @@ const Philosophy = () => {
                     </div>
                     <div className="col-span-2 prose prose-lg text-slate-600">
                         <p>
-                            Atlas is led by a founder focused on long-term systems design, safety, and infrastructure resilience.
+                            Qelvoro is led by a founder focused on long-term systems design, safety, and infrastructure resilience.
                         </p>
                         <p>
                             The organization operates with a research-first mindset, drawing from systems engineering, human factors, and applied AI.
-                            Atlas prioritizes durability, clarity, and responsibility over rapid expansion.
+                            Qelvoro prioritizes durability, clarity, and responsibility over rapid expansion.
                         </p>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ const Philosophy = () => {
 
                     {/* Who It's For */}
                     <div className="bg-slate-900 p-8 rounded-xl text-white">
-                        <h3 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-6">Who Atlas Is For</h3>
+                        <h3 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-6">Who Qelvoro Is For</h3>
                         <ul className="space-y-4">
                             <li className="flex items-center gap-3">
                                 <span className="text-brand-400">→</span> Organizations operating in safety-critical environments
@@ -72,7 +72,7 @@ const Philosophy = () => {
                             </li>
                         </ul>
                         <div className="mt-8 pt-8 border-t border-slate-700 text-slate-400 text-sm italic">
-                            Atlas is built for environments where consequences matter.
+                            Qelvoro is built for environments where consequences matter.
                         </div>
                     </div>
                 </div>

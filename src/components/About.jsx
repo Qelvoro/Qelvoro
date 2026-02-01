@@ -19,7 +19,7 @@ const About = () => {
                         </h2>
                         <div className="prose prose-lg text-slate-600 space-y-6">
                             <p>
-                                Atlas AI Labs was founded on a simple premise: <span className="font-semibold text-slate-900">Intelligence must be safe to be useful.</span>
+                                Qelvoro was founded on a simple premise: <span className="font-semibold text-slate-900">Intelligence must be safe to be useful.</span>
                             </p>
                             <p>
                                 We are a team of systems engineers, cognitive architects, and industrial safety experts. We don't just build models; we build the containment, the memory systems, and the safety rails that allow AI to operate in the real world.
@@ -70,7 +70,7 @@ const About = () => {
                             <div className="aspect-w-4 aspect-h-3 md:aspect-w-3 md:aspect-h-4">
                                 <img
                                     src="/ceo.jpg"
-                                    alt="Atlas AI Leadership"
+                                    alt="Qelvoro Leadership"
                                     className="object-cover w-full h-full transform hover:scale-105 transition-transform duration-700"
                                 />
                             </div>

@@ -61,7 +61,7 @@ const Domains = () => {
                 </div>
 
                 <div className="mt-12 text-center text-slate-500 font-medium italic">
-                    Each Atlas system is designed to operate independently—and integrate seamlessly.
+                    Each Qelvoro system is designed to operate independently—and integrate seamlessly.
                 </div>
             </div>
         </section>

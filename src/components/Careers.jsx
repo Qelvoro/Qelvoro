@@ -17,7 +17,7 @@ const Careers = () => {
                                 We are a team of systems thinkers, engineers, and operators.
                             </p>
                             <p>
-                                Atlas seeks individuals who prioritize <span className="text-brand-900 font-semibold">architectural integrity over speed</span>, and who are comfortable working on problems where the cost of failure is high. We value depth, discipline, and the ability to think in decades.
+                                Qelvoro seeks individuals who prioritize <span className="text-brand-900 font-semibold">architectural integrity over speed</span>, and who are comfortable working on problems where the cost of failure is high. We value depth, discipline, and the ability to think in decades.
                             </p>
                         </div>
 

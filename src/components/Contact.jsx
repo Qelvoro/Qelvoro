@@ -10,7 +10,7 @@ const Contact = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const subject = `Atlas AI Inquiry from ${formData.name}`;
+        const subject = `Qelvoro Inquiry from ${formData.name}`;
         const body = `Name: ${formData.name}%0D%0AEmail: ${formData.email}%0D%0A%0D%0AMessage:%0D%0A${formData.message}`;
         window.location.href = `mailto:support@atlasailab.com?subject=${encodeURIComponent(subject)}&body=${body}`;
     };
@@ -30,7 +30,7 @@ const Contact = () => {
                         <div className="p-12 bg-brand-900 text-white">
                             <h2 className="text-3xl font-bold mb-6">Engagement</h2>
                             <p className="text-blue-100 mb-6">
-                                Atlas operates on a partnership model, not a transactional one. We work with organizations prepared to integrate deep infrastructure, rather than those seeking quick-fix tools.
+                                Qelvoro operates on a partnership model, not a transactional one. We work with organizations prepared to integrate deep infrastructure, rather than those seeking quick-fix tools.
                             </p>
                             <p className="text-blue-100 mb-12 italic border-l-2 border-brand-500 pl-4">
                                 Inquiries regarding pilot programs and strategic deployment are reviewed on a rolling basis.

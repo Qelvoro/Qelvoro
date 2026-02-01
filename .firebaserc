@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "atlas-ai-lab"
+  },
+  "targets": {
+    "atlas-ai-lab": {
+      "hosting": {
+        "atlas-ai-lab": [
+          "atlas-ai-lab"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
